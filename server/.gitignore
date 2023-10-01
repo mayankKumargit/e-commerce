@@ -2,8 +2,7 @@
 
 # dependencies
 /node_modules
-.env
-.package-lock.json
+/.env
 /.pnp
 .pnp.js
 
